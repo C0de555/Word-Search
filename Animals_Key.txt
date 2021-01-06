@@ -1,0 +1,13 @@
+bird
+cat
+cheetah
+corgi
+dog
+elephant
+hippo
+husky
+liger
+lion
+panther
+pigeon
+tiger
