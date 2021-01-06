@@ -4,6 +4,7 @@ a word search game that runs in the terminal. You will be given a few samples to
 work with. Each sample will have 2 files:
 
 WS -> The word search board that you will have to load into your code to start the game.
+
 Key -> A key file that lets you know what words you need to find in order to win the game.
 
 The game will have unlimited moves until the player either gives up (quit), or
