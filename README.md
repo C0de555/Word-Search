@@ -26,7 +26,7 @@ of the word on the board with the surrounding letters in underscore.
 Example:
 If the player enters FLORIDA (States_WS.txt file) and it is a matched key, we
 should output:
- "- - - - - - - - - - - - - - -
+ -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
  F L O R I D A - - - - - - - -
  - - - - - - - - - - - - - - -
  - - - - - - - - - - - - - - -
@@ -40,7 +40,7 @@ should output:
  - - - - - - - - - - - - - - -
  - - - - - - - - - - - - - - -
  - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -"
+ - - - - - - - - - - - - - - -
  If the player has already guessed the word, print out a message to inform the player
 
  Take into consideration the spacing and letter casing. If you would like more
