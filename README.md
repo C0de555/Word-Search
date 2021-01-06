@@ -12,7 +12,8 @@ option to continue guessing the word on the board or to quit. Once all key words
 have been found, print out a congratulatory message to the player that they've won
 the game. If the player quits, print out a consolation message. If the player enters
 a word that exist in the board but is not a key word, print out a message letting
-the player know that it is not a valid key word.
+the player know that it is not a valid key word. If the player guesses a word that has 
+already been guessed, print out a message to inform the player.
 
 You have the option of printing out the word search game board at the start of
 the game if you wish to enhance the playing experience. You may not, however,
@@ -23,26 +24,6 @@ by having the player guess the key words.
 When the player's guess matches up with a key on the board, output the location
 of the word on the board with the surrounding letters in underscore.
 
-Example:
-If the player enters FLORIDA (States_WS.txt file) and it is a matched key, we
-should output:
- -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
- F L O R I D A - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- - - - - - - - - - - - - - - -
- If the player has already guessed the word, print out a message to inform the player
-
- Take into consideration the spacing and letter casing. If you would like more
- test samples, you can easily make your own word search template online here:
- http://puzzlemaker.discoveryeducation.com/WordSearchSetupForm.asp
+Take into consideration the spacing and letter casing. If you would like more
+test samples, you can easily make your own word search template online here:
+http://puzzlemaker.discoveryeducation.com/WordSearchSetupForm.asp
